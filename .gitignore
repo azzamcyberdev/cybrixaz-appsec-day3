@@ -1,0 +1,38 @@
+# Logs
+*.log
+day3-lab/lab.log
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Pytest & test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables & secrets
+.env
+.env.*
+cookies.txt
+*.pem
+*.key
+
+# Archives
+*.zip
+*.tar.gz
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
